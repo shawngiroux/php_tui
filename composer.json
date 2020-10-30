@@ -1,0 +1,15 @@
+{
+    "name": "shawngiroux/php_tui",
+    "type": "library",
+    "description": "A rather incomplete library for creating terminal interfaces",
+    "homepage": "https://github.com/shawngiroux/php_tui",
+    "license": "MIT",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHP_Tui\\": "classes/"
+        }
+    }
+}

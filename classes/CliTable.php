@@ -1,6 +1,6 @@
 <?php
 
-namespace classes;
+namespace PHP_Tui;
 
 use Exception;
 

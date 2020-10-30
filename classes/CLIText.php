@@ -1,8 +1,8 @@
 <?php
 
-namespace classes;
+namespace PHP_Tui;
 
-final class CLIText
+final class CliText
 {
     /**
      * Changes the color of a given string
